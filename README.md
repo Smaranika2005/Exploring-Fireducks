@@ -1,2 +1,22 @@
-# Exploring-Fireducks
-In the fast-moving world of AI and data science, handling massive amounts of data efficiently is a real challenge. From ingesting and transforming data to ensuring smooth distributed computing, data engineers constantly battle scalability, performance, and reliability issues. That’s where FireDucks shines.
+# 🔥 Unlocking Large-Scale AI and Data Science: with FireDucks
+
+This repository demonstrates a performance comparison between **Pandas** and **FireDucks** (DuckDB-powered DataFrame library) for handling large-scale datasets using Python.
+## 🚀 Features
+
+The notebook benchmarks various operations like:
+
+- 📂 Loading CSV files
+- 🔍 Filtering and GroupBy
+- 💸 Identifying Top Spenders
+- 📊 Visualizing Performance with Matplotlib
+
+---
+
+## 📌 Overview
+
+FireDucks is built on top of **DuckDB** and provides efficient, in-memory DataFrame operations using **lazy evaluation**, making it highly performant for large datasets compared to traditional **Pandas**.
+
+---
+
+## 📚 Blog Reference
+Read the full blog post here:
