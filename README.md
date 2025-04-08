@@ -19,4 +19,4 @@ The notebook benchmarks various operations like:
 ---
 
 ## 📚 Blog Reference
-Read the full blog post here:
+Read the full blog post here: https://docs.google.com/document/d/19GcQvkc0ONjDU9AB_P14kFdx27gmt02GibnznNlqSls/edit?usp=sharing
