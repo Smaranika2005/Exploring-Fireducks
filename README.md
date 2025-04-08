@@ -14,7 +14,7 @@ The notebook benchmarks various operations like:
 
 ## 📌 Overview
 
-FireDucks is built on top of **DuckDB** and provides efficient, in-memory DataFrame operations using **lazy evaluation**, making it highly performant for large datasets compared to traditional **Pandas**.
+**FireDucks** is built on top of **DuckDB** and provides efficient, in-memory DataFrame operations using **lazy evaluation**, making it highly performant for large datasets compared to traditional **Pandas**.
 
 ---
 
